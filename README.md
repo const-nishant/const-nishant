@@ -60,6 +60,7 @@ I'm a Computer Engineering student passionate about technology and its endless p
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=const-nishant&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=const-nishant&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
