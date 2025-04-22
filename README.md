@@ -31,10 +31,10 @@ I'm a Computer Engineering student passionate about technology and its endless p
 
 ## 🌱 What I’m currently learning
 
-- React
 - Tailwind CSS
 - Node Js
 - Full-stack development
+- Next-js
 
 
 <br/>
