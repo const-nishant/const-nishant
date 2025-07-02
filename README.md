@@ -47,7 +47,7 @@ I'm a Computer Engineering student passionate about technology and its endless p
 
 ## 🔥 Contribution Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=const-nishant&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=const-nishant&theme=dark)](https://git.io/streak-stats)
 
 <br/>
 
