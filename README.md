@@ -1,78 +1,153 @@
-# Hi, I'm Nishant 👋
+<!-- Retro Terminal Header -->
+<div align="center">
+  <img src="./retro_banner.png" width="600" alt="Retro Pixel Banner"/>
+</div>
 
-I'm a Computer Engineering student passionate about technology and its endless possibilities. Welcome to my GitHub profile, where I showcase my journey through coding and contribute to open-source.
+<!-- Avatar -->
+<p align="center">
+  <img src="./pixel_avatar_adventurer.png" width="170" alt="Pixel Avatar"/>
+</p>
 
-<br/>
+<!-- Typing Intro -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=7CFF6B&center=true&vCenter=true&width=900&lines=>+nishant.exe+initializing...;Cross-Platform+Developer;Web+%2F+Mobile+%2F+Desktop;MERN+%7C+Next.js+%7C+Nest.js+%7C+Flutter+%7C+Rust+%2B+Tauri" />
+</div>
 
-## 🌟 About Me
-- 🎓 **Student**: Currently pursuing a diploma in Computer Engineering, deeply fascinated by technology.
-- 🌲 **Outdoor Enthusiast**: Love exploring the great outdoors, especially on trekking adventures.
-- 🎥 **Anime Fan**: Passionate about anime and always diving into new series.
-- 🏎️ **F1 Racing**: Avid follower of F1 racing, keeping up with the latest happenings in the motorsport world.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=const-nishant&style=flat-square&color=7CFF6B" />
+</p>
 
-<br/>
+---
 
-## 🧑‍💻 Languages  Technologies
+```bash
+> whoami
+```
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) 
-![Dart](https://img.shields.io/badge/Dart-00BFFF?style=flat-square&logo=dart&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) 
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+**Nishant** — I build **cross-platform applications** across **Web**, **Mobile**, and **Desktop**.  
+I focus on **clean UI**, **high-performance systems**, and **developer-friendly codebases**.
 
-<br/>
+Working with:
 
-## 🌱 What I’m currently learning
+- **JavaScript → TypeScript → Rust**
+- **MERN → Next.js → Nest.js → Flutter → Tauri**
 
-- Tailwind CSS
-- Node Js
-- Full-stack development
-- Next-js
+---
+
+```bash
+> system status: skills --list
+```
+
+### 🧠 **Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-7CFF6B?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-7CFF6B?style=for-the-badge&logo=typescript&logoColor=000)
+![Dart](https://img.shields.io/badge/Dart-7CFF6B?style=for-the-badge&logo=dart&logoColor=000)
+![Rust](https://img.shields.io/badge/Rust-7CFF6B?style=for-the-badge&logo=rust&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-7CFF6B?style=for-the-badge&logo=html5&logoColor=000)
+![CSS3](https://img.shields.io/badge/CSS3-7CFF6B?style=for-the-badge&logo=css3&logoColor=000)
 
 
-<br/>
+### 🎨 **Frontend**
 
-## 📈 GitHub Stats
+![React](https://img.shields.io/badge/React-7CFF6B?style=for-the-badge&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-7CFF6B?style=for-the-badge&logo=nextdotjs&logoColor=000)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-7CFF6B?style=for-the-badge&logo=tailwindcss&logoColor=000)
+![Redux](https://img.shields.io/badge/Redux-7CFF6B?style=for-the-badge&logo=redux&logoColor=000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7CFF6B?style=for-the-badge&logo=bootstrap&logoColor=000)
 
-![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=const-nishant&show_icons=true&theme=radical)
 
-<br/>
+### ⚙️ **Backend & APIs**
 
-## 🔥 Contribution Streak
+![Node.js](https://img.shields.io/badge/Node.js-7CFF6B?style=for-the-badge&logo=node.js&logoColor=000)
+![Express.js](https://img.shields.io/badge/Express.js-7CFF6B?style=for-the-badge&logo=express&logoColor=000)
+![NestJS](https://img.shields.io/badge/NestJS-7CFF6B?style=for-the-badge&logo=nestjs&logoColor=000)
+![REST API](https://img.shields.io/badge/REST_APIs-7CFF6B?style=for-the-badge&logo=fastapi&logoColor=000)
+![API Design](https://img.shields.io/badge/API_Architecture-7CFF6B?style=for-the-badge&logo=protocols&logoColor=000)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=const-nishant&theme=dark)](https://git.io/streak-stats)
 
-<br/>
+### 📱 **Mobile / Cross-Platform**
 
-## 🚀 My Repositories
+![Flutter](https://img.shields.io/badge/Flutter-7CFF6B?style=for-the-badge&logo=flutter&logoColor=000)
+![Android](https://img.shields.io/badge/Android_(Flutter+Kotlin)-7CFF6B?style=for-the-badge&logo=android&logoColor=000)
+![Cross Platform](https://img.shields.io/badge/Cross_Platform_Dev-7CFF6B?style=for-the-badge&logo=appveyor&logoColor=000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=const-nishant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
+### 🗄️ **Database & Cloud**
 
-## 🏆 GitHub Trophies
+![MongoDB](https://img.shields.io/badge/MongoDB-7CFF6B?style=for-the-badge&logo=mongodb&logoColor=000)
+![Firebase](https://img.shields.io/badge/Firebase-7CFF6B?style=for-the-badge&logo=firebase&logoColor=000)
+![Firestore](https://img.shields.io/badge/Cloud_Firestore-7CFF6B?style=for-the-badge&logo=firebase&logoColor=000)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=const-nishant&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br/>
+### 🧰 **Tools**
 
-## 📫 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/const-nishant/)
- [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/const_nishant/)
-
-<br/>
-
+![Git](https://img.shields.io/badge/Git-7CFF6B?style=for-the-badge&logo=git&logoColor=000)
+![GitHub](https://img.shields.io/badge/GitHub-7CFF6B?style=for-the-badge&logo=github&logoColor=000)
+![Linux](https://img.shields.io/badge/Linux-7CFF6B?style=for-the-badge&logo=linux&logoColor=000)
+![Terminal](https://img.shields.io/badge/CLI-7CFF6B?style=for-the-badge&logo=gnometerminal&logoColor=000)
+![Markdown](https://img.shields.io/badge/Markdown-7CFF6B?style=for-the-badge&logo=markdown&logoColor=000)
 
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=const-nishant&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
+```bash
+> projects --featured
+```
 
+| Project                                                                       | Description                                                            | Stack                      |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------- |
+| **[Offbeat Pravasi v2](https://github.com/const-nishant/offbeat_pravasi_v2)** | Trek & travel experience platform with real-time features & modern UI. | Flutter + Appwrite + Firebase |
+| **[Rustium-CLI](https://github.com/const-nishant/Rustium-CLI)**               | Command-line tool built fast & minimal in Rust.           | Rust + Clap + Tokio        |
+
+---
+
+```bash
+> github activity
+```
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=const-nishant&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+
+<img height="165" src="https://streak-stats.demolab.com/?user=const-nishant&theme=dark" alt="GitHub Streak" />
+
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=const-nishant&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" />
+
+</div>
+
+
+---
+
+```bash
+> socials --open
+```
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/const-nishant"><img src="https://img.shields.io/badge/LinkedIn-7CFF6B?style=for-the-badge&logo=linkedin&logoColor=000"></a>
+  <a href="https://www.instagram.com/const_nishant"><img src="https://img.shields.io/badge/Instagram-7CFF6B?style=for-the-badge&logo=instagram&logoColor=000"></a>
+</div>
+
+---
+
+```bash
+> exit
+```
+
+```
+
+
+                 -----------!-----------
+-----------!-----------  /=====\
+          |===\_________/_  o  |
+         /_]    o o  o o____   /
+        <_]___[]_______<____>/
+            o              o
+
+       const-nishant • cross-platform dev
+
+```
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=7CFF6B&height=120&section=footer"/>
+</div>
