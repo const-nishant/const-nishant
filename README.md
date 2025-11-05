@@ -3,10 +3,7 @@
   <img src="./retro_banner.png" width="600" alt="Retro Pixel Banner"/>
 </div>
 
-<!-- Avatar -->
-<p align="center">
-  <img src="./pixel_avatar_adventurer.png" width="170" alt="Pixel Avatar"/>
-</p>
+
 
 <!-- Typing Intro -->
 <div align="center">
