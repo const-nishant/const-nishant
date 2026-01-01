@@ -122,7 +122,7 @@ Working with:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/const-nishant"><img src="https://img.shields.io/badge/LinkedIn-7CFF6B?style=for-the-badge&logo=linkedin&logoColor=000"></a>
-  <a href="https://www.instagram.com/const_nishant"><img src="https://img.shields.io/badge/Instagram-7CFF6B?style=for-the-badge&logo=instagram&logoColor=000"></a>
+  <a href="https://www.instagram.com/bits_n_beginnings"><img src="https://img.shields.io/badge/Instagram-7CFF6B?style=for-the-badge&logo=instagram&logoColor=000"></a>
 </div>
 
 ---
